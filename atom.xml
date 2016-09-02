@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/29/hello-world/"/>
-    <id>http://yoursite.com/2016/08/29/hello-world/</id>
+    <link href="http://yoursite.com/:/category/hello-world"/>
+    <id>http://yoursite.com/:/category/hello-world</id>
     <published>2016-08-29T08:11:35.943Z</published>
     <updated>2016-08-29T08:11:35.939Z</updated>
     
@@ -48,8 +48,8 @@
   
   <entry>
     <title>helloyyj</title>
-    <link href="http://yoursite.com/2016/08/18/helloyyj/"/>
-    <id>http://yoursite.com/2016/08/18/helloyyj/</id>
+    <link href="http://yoursite.com/:/category/helloyyj"/>
+    <id>http://yoursite.com/:/category/helloyyj</id>
     <published>2016-08-18T15:27:16.000Z</published>
     <updated>2016-08-29T08:11:57.443Z</updated>
     
