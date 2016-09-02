@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.yangyujie.com/"/>
   <updated>2016-08-29T08:11:35.939Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.yangyujie.com/</id>
   
   <author>
     <name>winter yang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/:/category/hello-world"/>
-    <id>http://yoursite.com/:/category/hello-world</id>
+    <link href="http://www.yangyujie.com/:/category/hello-world"/>
+    <id>http://www.yangyujie.com/:/category/hello-world</id>
     <published>2016-08-29T08:11:35.943Z</published>
     <updated>2016-08-29T08:11:35.939Z</updated>
     
@@ -39,17 +39,17 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="http://www.yangyujie.com/categories/test/"/>
     
     
-      <category term="testtag" scheme="http://yoursite.com/tags/testtag/"/>
+      <category term="testtag" scheme="http://www.yangyujie.com/tags/testtag/"/>
     
   </entry>
   
   <entry>
     <title>helloyyj</title>
-    <link href="http://yoursite.com/:/category/helloyyj"/>
-    <id>http://yoursite.com/:/category/helloyyj</id>
+    <link href="http://www.yangyujie.com/:/category/helloyyj"/>
+    <id>http://www.yangyujie.com/:/category/helloyyj</id>
     <published>2016-08-18T15:27:16.000Z</published>
     <updated>2016-08-29T08:11:57.443Z</updated>
     
@@ -57,10 +57,10 @@
     
     </summary>
     
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
+      <category term="test" scheme="http://www.yangyujie.com/categories/test/"/>
     
     
-      <category term="test1" scheme="http://yoursite.com/tags/test1/"/>
+      <category term="test1" scheme="http://www.yangyujie.com/tags/test1/"/>
     
   </entry>
   
